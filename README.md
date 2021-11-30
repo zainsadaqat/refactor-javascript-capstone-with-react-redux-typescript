@@ -2,7 +2,7 @@
 
 # Refactor JavaScript Capstone Project with React and Redux with TypeScript
 
-> One paragraph statement about the project.
+> The Lorem Ipsum for photos.
 
 ![screenshot](./app_screenshot.png)
 
