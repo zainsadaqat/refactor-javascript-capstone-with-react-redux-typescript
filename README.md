@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Refactor JavaScript Capstone Project with React and Redux with TypeScript
 
 > One paragraph statement about the project.
 
