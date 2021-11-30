@@ -2,7 +2,8 @@
 
 # Refactor JavaScript Capstone Project with React and Redux with TypeScript
 
-> The Lorem Ipsum for photos.
+> The Lorem Ipsum for photos. Get a list of images by using the /v2/list endpoint. `https://picsum.photos/v2/list
+`
 
 ![screenshot](./app_screenshot.png)
 
