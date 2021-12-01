@@ -8,11 +8,32 @@
 
 Additional description about the project and its features.
 
+### Day-01
+
+- Create Project
+- Choose API
+- Create Folder Structure
+- Collect assets (logo, font, styling library)
+
+### Day-02
+
+- Fetch Data
+- Use Like, Comment API
+- Use Selected API
+
+### Day-03
+
+- Style Project
+
+### Day-04
+
+- Host the Project (Heroku, Netlify)
+
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- TypeScript
+- React
+- Redux
 
 ## Live Demo
 
@@ -37,19 +58,14 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-## Authors
+## Author
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
+👤 **Zain Sadaqat**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+-
 
 ## 🤝 Contributing
 
