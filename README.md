@@ -12,6 +12,7 @@ Additional description about the project and its features.
 
 - Create Project
 - Choose API
+  - `https://picsum.photos/v2/list`
 - Create Folder Structure
 - Collect assets (logo, font, styling library)
 
