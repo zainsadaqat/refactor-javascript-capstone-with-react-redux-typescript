@@ -62,9 +62,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Zain Sadaqat**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@zainsadaqat](https://github.com/zainsadaqat)
+- Twitter: [@zain_sadaqat](https://twitter.com/zain_sadaqat)
+- LinkedIn: [zain-sadaqat](https://linkedin.com/in/zain-sadaqat)
 -
 
 ## 🤝 Contributing
