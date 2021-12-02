@@ -8,6 +8,10 @@
 
 Additional description about the project and its features.
 
+### Dependencies to install
+
+`npm i axios redux react-redux @types/react-redux @types/redux redux-devtools-extension`
+
 ### Day-01
 
 - Create Project
