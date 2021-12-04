@@ -10,7 +10,7 @@ Additional description about the project and its features.
 
 ### Dependencies to install
 
-`npm i axios redux react-redux @types/react-redux @types/redux redux-devtools-extension`
+`npm i axios redux react-redux redux-thunk @types/react-redux @types/redux @types/redux-thunk redux-devtools-extension`
 
 ### Day-01
 
